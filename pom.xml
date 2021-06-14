@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <project xmlns="http://maven.apache.org/POM/4.0.0" 
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.douzone</groupId>
+    <artifactId>mariadb_pratice</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <url>http://maven.apache.org</url>  
+    <modules>
+    	<module>jdbc-pratices</module>
+    	<module>Bookmall</module>
+    	<module>bookmall</module>
+    </modules>
+</project>
